@@ -23,10 +23,13 @@ My personal list of music I want to listen to
 - [ ] Haken
 - [ ] Gentle Giant
 - [ ] TELECiDE
+- [ ] Meshuggah
+- [ ] Behemoth
+- [ ] Deftones 
 
 ### Specific Albums I'm on
 
-| Artists              | Albums                       | Started |
+| Artists              | Albums / EP                  | Started |
 | -------------------- | ---------------------------- | ------- |
 | Broken By The Scream | Alien Portrait               |   Yes   |
 | Katatonia            | Brave Murder Day             |   No    |
@@ -43,3 +46,5 @@ My personal list of music I want to listen to
 | Gentle Giant         | Free Hand                    |   No    |
 | Asunojokei           | Island                       |   No    |
 | TELECiDE             | TELECiDE 2nd EP              |   No    |
+| Meshuggah            | ObZen                        |   Yes   |
+| Behemoth             | The Satanist                 |   No    |
