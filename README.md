@@ -48,3 +48,4 @@ My personal list of music I want to listen to
 | TELECiDE             | TELECiDE 2nd EP              |   No    |
 | Meshuggah            | ObZen                        |   Yes   |
 | Behemoth             | The Satanist                 |   No    |
+| Deftones             | Diamond eyes                 |   No    |
