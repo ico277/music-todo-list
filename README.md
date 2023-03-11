@@ -31,7 +31,7 @@ My personal list of music I want to listen to
 
 | Artists              | Albums / EP                  | Started |
 | -------------------- | ---------------------------- | ------- |
-| Broken By The Scream | Alien Portrait               |   Yes   |
+| Broken By The Scream | An Alien's Portrait          |   Yes   |
 | Katatonia            | Brave Murder Day             |   No    |
 | Cattle Decapitation  | Monolith of Inhumanity       |   No    |
 | Agalloch             | The Mantle                   |   No    |
