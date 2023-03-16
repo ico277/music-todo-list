@@ -25,7 +25,10 @@ My personal list of music I want to listen to
 - [ ] TELECiDE
 - [ ] Meshuggah
 - [ ] Behemoth
-- [ ] Deftones 
+- [ ] Deftones
+- [ ] GROZA
+- [ ] Spectral Wound
+- [ ] Psychonaut 4
 
 ### Specific Albums I'm on
 
