@@ -29,6 +29,7 @@ My personal list of music I want to listen to
 - [ ] GROZA
 - [ ] Spectral Wound
 - [ ] Psychonaut 4
+- [ ] Vorga
 
 ### Specific Albums I'm on
 
