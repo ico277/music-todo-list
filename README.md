@@ -1,7 +1,7 @@
 # My Music TODO-List
 My personal list of music I want to listen to
 
-# **Last Updated on 10.03.2023**
+# **Last Updated on 16.03.2023**
 
 ## Lists
 
@@ -31,8 +31,8 @@ My personal list of music I want to listen to
 
 | Artists              | Albums / EP                  | Started |
 | -------------------- | ---------------------------- | ------- |
-| Broken By The Scream | An Alien's Portrait          |   Yes   |
 | Katatonia            | Brave Murder Day             |   No    |
+| Broken By The Scream | Screaming Rhapsody           |   No    |
 | Cattle Decapitation  | Monolith of Inhumanity       |   No    |
 | Agalloch             | The Mantle                   |   No    |
 | Voivod               | Synchro Anarchy              |   No    |
